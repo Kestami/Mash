@@ -1,7 +1,7 @@
 <script setup lang="ts">
 
 import { GameState } from '@classes/GameState';
-import Item from '@/classes/Item';
+import Item from '@classes/Item';
 import Category from '@classes/Category';
 import { nextTick, useTemplateRef } from 'vue';
 
